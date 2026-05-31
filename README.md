@@ -1,4 +1,4 @@
-# Devilance 1.0.0.
+# Devilance 1.0.0
 
 Minecraft bot base built with Node, TypeScript, and Mineflayer
 
